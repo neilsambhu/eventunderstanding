@@ -1,0 +1,15 @@
+cut-a,cut-a:1,walkin-a:0,peel-a:16,stir-a:0,walkout-a:0,take-a:21,put-a:127,squeeze-a:26,butter-a:0,pour-a:0,fry-a:0,crack-a:0,add-a:0,smear-a:18,spoon-a:0
+walkin-a,cut-a:0,walkin-a:0,peel-a:0,stir-a:0,walkout-a:0,take-a:2,put-a:0,squeeze-a:0,butter-a:0,pour-a:1,fry-a:0,crack-a:0,add-a:0,smear-a:0,spoon-a:0
+peel-a,cut-a:38,walkin-a:0,peel-a:0,stir-a:0,walkout-a:0,take-a:0,put-a:4,squeeze-a:0,butter-a:0,pour-a:0,fry-a:0,crack-a:0,add-a:0,smear-a:0,spoon-a:0
+stir-a,cut-a:0,walkin-a:0,peel-a:0,stir-a:2,walkout-a:0,take-a:0,put-a:0,squeeze-a:0,butter-a:16,pour-a:68,fry-a:0,crack-a:0,add-a:3,smear-a:0,spoon-a:5
+walkout-a,cut-a:0,walkin-a:0,peel-a:0,stir-a:0,walkout-a:0,take-a:0,put-a:0,squeeze-a:0,butter-a:0,pour-a:0,fry-a:0,crack-a:0,add-a:0,smear-a:0,spoon-a:0
+take-a,cut-a:19,walkin-a:0,peel-a:3,stir-a:0,walkout-a:0,take-a:6,put-a:116,squeeze-a:6,butter-a:1,pour-a:56,fry-a:8,crack-a:4,add-a:12,smear-a:7,spoon-a:10
+put-a,cut-a:34,walkin-a:0,peel-a:14,stir-a:6,walkout-a:0,take-a:0,put-a:15,squeeze-a:0,butter-a:0,pour-a:0,fry-a:1,crack-a:0,add-a:0,smear-a:0,spoon-a:0
+squeeze-a,cut-a:0,walkin-a:0,peel-a:0,stir-a:0,walkout-a:0,take-a:23,put-a:0,squeeze-a:0,butter-a:0,pour-a:20,fry-a:0,crack-a:0,add-a:0,smear-a:0,spoon-a:0
+butter-a,cut-a:0,walkin-a:0,peel-a:0,stir-a:6,walkout-a:0,take-a:2,put-a:0,squeeze-a:0,butter-a:2,pour-a:25,fry-a:0,crack-a:23,add-a:2,smear-a:0,spoon-a:1
+pour-a,cut-a:0,walkin-a:0,peel-a:0,stir-a:72,walkout-a:0,take-a:3,put-a:0,squeeze-a:10,butter-a:2,pour-a:79,fry-a:41,crack-a:14,add-a:7,smear-a:0,spoon-a:21
+fry-a,cut-a:0,walkin-a:0,peel-a:0,stir-a:0,walkout-a:0,take-a:49,put-a:70,squeeze-a:0,butter-a:0,pour-a:1,fry-a:5,crack-a:0,add-a:20,smear-a:0,spoon-a:0
+crack-a,cut-a:0,walkin-a:0,peel-a:0,stir-a:9,walkout-a:0,take-a:1,put-a:0,squeeze-a:0,butter-a:1,pour-a:9,fry-a:28,crack-a:2,add-a:24,smear-a:0,spoon-a:19
+add-a,cut-a:0,walkin-a:0,peel-a:0,stir-a:8,walkout-a:0,take-a:6,put-a:0,squeeze-a:0,butter-a:2,pour-a:25,fry-a:34,crack-a:1,add-a:1,smear-a:0,spoon-a:0
+smear-a,cut-a:0,walkin-a:0,peel-a:0,stir-a:0,walkout-a:0,take-a:6,put-a:20,squeeze-a:0,butter-a:0,pour-a:0,fry-a:0,crack-a:0,add-a:0,smear-a:0,spoon-a:0
+spoon-a,cut-a:0,walkin-a:0,peel-a:0,stir-a:24,walkout-a:0,take-a:0,put-a:0,squeeze-a:0,butter-a:1,pour-a:40,fry-a:0,crack-a:5,add-a:0,smear-a:0,spoon-a:0

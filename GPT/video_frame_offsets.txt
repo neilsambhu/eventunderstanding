@@ -1,0 +1,16 @@
+S06_Brownie 0
+S07_Brownie 508
+S08_Brownie 300
+S09_Brownie 226
+S10_Brownie 0
+S12_Brownie 400
+S13_Brownie 290
+S14_Brownie 386
+S16_Brownie 168
+S17_Brownie 236
+S18_Brownie 316
+S19_Brownie 354
+S20_Brownie 212
+S22_Brownie 262
+S23_Brownie 0
+S24_Brownie 360

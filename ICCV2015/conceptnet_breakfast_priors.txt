@@ -1,0 +1,2 @@
+conceptnet_breakfast_actions_objects_100.txt action_object regular
+conceptnet_breakfast_objects_objects_100.txt object_object regular

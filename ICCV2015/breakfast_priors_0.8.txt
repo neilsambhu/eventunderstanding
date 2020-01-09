@@ -1,0 +1,7 @@
+breakfast_priors/breakfast_act-act_s1_0.8.txt action_action time
+breakfast_priors/breakfast_act-obj_s1_0.8.txt action_object regular
+breakfast_priors/breakfast_inter-act_s1_0.8.txt interaction_action regular
+breakfast_priors/breakfast_inter-obj_s1_0.8.txt interaction_object regular
+breakfast_priors/breakfast_obj-obj_s1_0.8.txt object_object regular
+breakfast_priors/breakfast_rec-inter_s1_0.8.txt recipe_interaction regular
+breakfast_priors/breakfast_temporal_obj-obj_s1_0.8.txt object_object time

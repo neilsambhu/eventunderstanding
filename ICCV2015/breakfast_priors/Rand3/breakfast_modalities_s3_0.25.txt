@@ -1,0 +1,8 @@
+interaction:take-a_topping-o,stir-a_cereals-o,add-a_saltnpepper-o,smear-a_butter-o,take-a_squeezer-o,take-a_bowl-o,stir-a_dough-o,peel-a_fruit-o,pour-a_milk-o,add-a_teabag-o,pour-a_water-o,take-a_glass-o,pour-a_coffee-o,put-a_bunTogether-o,pour-a_oil-o,cut-a_fruit-o,walkout-a,crack-a_egg-o,spoon-a_flour-o,cut-a_orange-o,put-a_egg-o_plate-o,put-a_toppingOnTop-o,pour-a_flour-o,fry-a_pancake-o,squeeze-a_orange-o,walkin-a,pour-a_juice-o,stir-a_egg-o,take-a_knife-o,take-a_eggs-o,fry-a_egg-o,spoon-a_sugar-o,take-a_butter-o,pour-a_dough-o_pan-o,pour-a_cereals-o,take-a_plate-o,stir-a_fruit-o,cut-a_bun-o,put-a_fruit-o_bowl-o,spoon-a_powder-o,take-a_cup-o,stir-a_milk-o,butter-a_pan-o,pour-a_egg-o_pan-o,put-a_pancake-o_plate-o,stir-a_coffee-o
+utensil:cup-o,bowl-o,pan-o,plate-o,squeezer-o,knife-o
+object:topping-o,toppingOnTop-o,coffee-o,teabag-o,plate-o,juice-o,saltnpepper-o,milk-o,knife-o,powder-o,bunTogether-o,fruit-o,pancake-o,cereals-o,sugar-o,bun-o,bowl-o,egg-o,glass-o,water-o,orange-o,pan-o,cup-o,oil-o,dough-o,flour-o,squeezer-o,butter-o,eggs-o
+recipe:pancake-r,milk-r,juice-r,cereal-r,tea-r,scrambledegg-r,coffee-r,salad-r,friedegg-r,sandwich-r
+shape_feature:hog
+motion_feature:hof
+action:cut-a,walkin-a,spoon-a,peel-a,stir-a,walkout-a,smear-a,put-a,squeeze-a,butter-a,pour-a,fry-a,crack-a,take-a,add-a
+ingredient:cereals-o,tea-o,toppping-o,juice-o,dough-o,powder-o,milk-o,teabag-o,sugar-o,orange-o,coffee-o,oil-o,flour-o,egg-o,water-o,glass-o,fruit-o,bun-o,pancake-o,butter-o,toppingOnTop-o,saltnpepper-o,bunTogether-o

@@ -1,0 +1,14 @@
+cut-a,cut-a:1,spoon-a:0,peel-a:5,stir-a:0,walkout-a:0,take-a:7,put-a:63,squeeze-a:9,butter-a:0,pour-a:0,fry-a:0,crack-a:0,smear-a:8,add-a:0
+spoon-a,cut-a:0,spoon-a:0,peel-a:0,stir-a:7,walkout-a:0,take-a:0,put-a:0,squeeze-a:0,butter-a:0,pour-a:14,fry-a:0,crack-a:0,smear-a:0,add-a:0
+peel-a,cut-a:9,spoon-a:0,peel-a:0,stir-a:0,walkout-a:0,take-a:2,put-a:0,squeeze-a:0,butter-a:0,pour-a:0,fry-a:0,crack-a:0,smear-a:0,add-a:0
+stir-a,cut-a:0,spoon-a:2,peel-a:0,stir-a:0,walkout-a:0,take-a:0,put-a:0,squeeze-a:0,butter-a:2,pour-a:22,fry-a:0,crack-a:0,smear-a:0,add-a:0
+walkout-a,cut-a:0,spoon-a:0,peel-a:0,stir-a:0,walkout-a:0,take-a:0,put-a:0,squeeze-a:0,butter-a:0,pour-a:0,fry-a:0,crack-a:0,smear-a:0,add-a:0
+take-a,cut-a:9,spoon-a:4,peel-a:2,stir-a:0,walkout-a:0,take-a:8,put-a:27,squeeze-a:1,butter-a:0,pour-a:13,fry-a:4,crack-a:2,smear-a:4,add-a:2
+put-a,cut-a:20,spoon-a:0,peel-a:2,stir-a:3,walkout-a:0,take-a:0,put-a:4,squeeze-a:0,butter-a:0,pour-a:0,fry-a:0,crack-a:0,smear-a:1,add-a:0
+squeeze-a,cut-a:0,spoon-a:0,peel-a:0,stir-a:0,walkout-a:0,take-a:7,put-a:0,squeeze-a:0,butter-a:0,pour-a:7,fry-a:0,crack-a:0,smear-a:0,add-a:0
+butter-a,cut-a:0,spoon-a:0,peel-a:0,stir-a:0,walkout-a:0,take-a:0,put-a:0,squeeze-a:0,butter-a:0,pour-a:4,fry-a:0,crack-a:3,smear-a:0,add-a:0
+pour-a,cut-a:0,spoon-a:6,peel-a:0,stir-a:20,walkout-a:0,take-a:1,put-a:0,squeeze-a:4,butter-a:0,pour-a:28,fry-a:12,crack-a:5,smear-a:0,add-a:1
+fry-a,cut-a:0,spoon-a:0,peel-a:0,stir-a:0,walkout-a:0,take-a:12,put-a:20,squeeze-a:0,butter-a:0,pour-a:0,fry-a:3,crack-a:0,smear-a:0,add-a:4
+crack-a,cut-a:0,spoon-a:4,peel-a:0,stir-a:6,walkout-a:0,take-a:2,put-a:0,squeeze-a:0,butter-a:0,pour-a:2,fry-a:6,crack-a:1,smear-a:0,add-a:2
+smear-a,cut-a:0,spoon-a:0,peel-a:0,stir-a:0,walkout-a:0,take-a:3,put-a:11,squeeze-a:0,butter-a:0,pour-a:0,fry-a:0,crack-a:0,smear-a:0,add-a:0
+add-a,cut-a:0,spoon-a:0,peel-a:0,stir-a:2,walkout-a:0,take-a:0,put-a:0,squeeze-a:0,butter-a:0,pour-a:6,fry-a:5,crack-a:0,smear-a:0,add-a:0

@@ -1,0 +1,3 @@
+semantic 2.5
+support 0.5
+temporal 1.0

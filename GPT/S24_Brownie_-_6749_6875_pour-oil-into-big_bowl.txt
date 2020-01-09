@@ -1,0 +1,4 @@
+cnn 0 AudioVideoTestFeatures/S24_Brownie/6749_6875_pour-oil-into-big_bowl/measuring_cup_small_id_11 xmin:177 xmax:743 ymin:246 ymax:597 tmin:7108 tmax:7213
+cnn 0 AudioVideoTestFeatures/S24_Brownie/6749_6875_pour-oil-into-big_bowl/bowl_id_0 xmin:474 xmax:765 ymin:369 ymax:540 tmin:7108 tmax:7213
+spect400 0 AudioVideoTestFeatures/S24_Brownie/6749_6875_pour-oil-into-big_bowl/6749_6875_pour-oil-into-big_bowl_spect400_hist.scale tmin:6749 tmax:6875
+cnnflow 0 AudioVideoTestFeatures/S24_Brownie/6749_6875_pour-oil-into-big_bowl/pour-oil-into-bowl-33_frames_7108_7213_CNN_FLOW.scaled tmin:6749 tmax:6875
